@@ -8,6 +8,7 @@ public class CCuenta {
     
     public CCuenta()
     {
+        this.saldo=100;
     }
     
     /**
