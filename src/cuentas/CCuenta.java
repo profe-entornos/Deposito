@@ -66,9 +66,6 @@ public class CCuenta {
     public void setTipoInterés(double tipoInterés) {
         this.tipoInterés = tipoInterés;
     }
-    
-
-
 
     public CCuenta(String nom, String cue, double sal, double tipo)
     {
